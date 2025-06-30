@@ -3,7 +3,7 @@
 
 # 🎬 Busireddy Movies - AI-Prompted Booking Platform
 
-i want to build a booking platform where i can buy movie tickets like book my show the may i want to build the platform i want to first the project and only work on the navigationwith empty screens once the navigation is worked i want to to work eaxh screen it has clear objection as component data attribuites interactions ux components intreaction in succesfylu validate assume we havw 10 pages i want to incrememt by  go screen by svreen one by oneand build platform can you please be my promt engineer and give
+i want to build a booking platform and name is Busireddy Movies where i can buy movie tickets like book my show the may i want to build the platform i want to first the project and only work on the navigationwith empty screens once the navigation is worked i want to to work eaxh screen it has clear objection as component data attribuites interactions ux components intreaction in succesfylu validate assume we havw 10 pages i want to incrememt by  go screen by svreen one by oneand build platform can you please be my promt engineer and give
 
 You're building a BookMyShow-like movie ticket booking platform — and you want to:
 
